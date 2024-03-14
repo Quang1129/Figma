@@ -1,0 +1,138 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		iphone_14___15_pro_max___1
+	 *	@date 		Thursday 14th of March 2024 03:43:20 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/iphone_14___15_pro_max___1" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_iphone_14___15_pro_max___1_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__iphone_14___15_pro_max___1_ek2"
+					android:background="@drawable/_bg__iphone_14___15_pro_max___1_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="430dp"
+					android:layout_height="932dp" />
+
+				<ImageView android:id="@+id/rectangle_1"
+					android:src="@drawable/rectangle_1"
+					android:contentDescription="rectangle_1"
+					 android:layout_marginStart="78dp"
+					android:layout_marginTop="399dp"
+					android:layout_width="272dp"
+					android:layout_height="45dp" />
+
+				<View   android:id="@+id/rectangle_2"
+					android:background="@drawable/rectangle_2_shape"
+					 android:layout_marginStart="82dp"
+					android:layout_marginTop="512dp"
+					android:layout_width="264dp"
+					android:layout_height="38dp" />
+
+				<TextView android:id="@+id/password"
+					android:textSize="23sp"
+					android:textColor="@color/password_color"
+					android:layout_marginLeft="146dp"
+					android:layout_marginTop="518dp"
+					android:layout_width="127.3dp"
+					android:layout_height="35.3dp"
+					android:text="@string/password_string"
+					 />
+
+				<TextView android:id="@+id/login"
+					android:textStyle="bold|italic"
+					android:textSize="23sp"
+					android:shadowRadius="4"
+					android:shadowColor="#000000"
+					android:shadowDx="0"
+					android:shadowDy="4"
+					android:textColor="@color/password_color"
+					android:layout_marginLeft="168dp"
+					android:layout_marginTop="130dp"
+					android:layout_width="82.3dp"
+					android:layout_height="35.3dp"
+					android:text="@string/login_string"
+					 />
+
+
+				<RelativeLayout android:id="@+id/frame_1"
+					android:layout_marginTop="621dp"
+					android:layout_marginStart="168dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/_bg__frame_1_ek1"
+						android:background="@drawable/_bg__frame_1_ek1_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="96dp"
+						android:layout_height="88dp" />
+
+					<TextView android:id="@+id/login_ek1"
+						android:textSize="23sp"
+						android:textColor="@color/login_ek1_color"
+						android:layout_marginLeft="18dp"
+						android:layout_marginTop="36dp"
+						android:layout_width="79.3dp"
+						android:layout_height="35.3dp"
+						android:text="@string/login_ek1_string"
+						 />
+
+				</RelativeLayout>
+
+				<View   android:id="@+id/ellipse_1"
+					android:background="@drawable/ellipse_1_shape"
+					 android:layout_marginStart="153dp"
+					android:layout_marginTop="665dp"
+					android:layout_width="1dp"
+					android:layout_height="5dp" />
+
+				<ImageView android:id="@+id/maxresdefault_1"
+					android:src="@drawable/maxresdefault_1"
+					android:contentDescription="maxresdefault_1"
+					 android:layout_marginStart="79dp"
+					android:layout_marginTop="218dp"
+					android:layout_width="273dp"
+					android:layout_height="112dp" />
+
+				<TextView android:id="@+id/username"
+					android:textSize="23sp"
+					android:textColor="@color/password_color"
+					android:layout_marginLeft="146dp"
+					android:layout_marginTop="405dp"
+					android:layout_width="132.3dp"
+					android:layout_height="35.3dp"
+					android:text="@string/username_string"
+					 />
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
